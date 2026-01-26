@@ -1,4 +1,4 @@
-MahjongMaster_AI / 雀魂麻将 AI 助手
+# MahjongMaster_AI / 雀魂麻将 AI 助手
 
 最新AI模型，无需部署，下载即可使用
 
