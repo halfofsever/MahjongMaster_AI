@@ -1,6 +1,7 @@
 MahjongMaster_AI / 雀魂麻将 AI 助手
 
 最新AI模型，无需部署，下载即可使用
+
 MahjongMaster是一款最新的雀魂麻将 AI 辅助工具。它能够针对《雀魂麻将》对局中的每一步提供实时策略建议、听牌分析及自动化操作支持。
 
 ## 📥 社区与下载
@@ -14,9 +15,9 @@ MahjongMaster是一款最新的雀魂麻将 AI 辅助工具。它能够针对《
 
 
 ## 🖥️ 界面预览
-<img width="767" height="755" alt="8429ba1fd128597bc0fe96d97fdfb3b5" src="https://github.com/user-attachments/assets/78c50373-06dc-4af4-b530-336213043340" />
-
 最新AI模型，高级感UI设计
+
+<img width="767" height="755" alt="8429ba1fd128597bc0fe96d97fdfb3b5" src="https://github.com/user-attachments/assets/78c50373-06dc-4af4-b530-336213043340" />
 
 ## ⚙️ 快速上手
 前往本仓库的页面下载安装包。
