@@ -7,6 +7,8 @@ MahjongMaster是一款最新的雀魂麻将 AI 辅助工具。它能够针对《
 ## 📥 社区与下载
 内测版下载：右侧Releases下载
 
+站点：https://mahjongmasterdemo.zeabur.app
+
 添加QQ联系人：1106131344/2110417355
 即可享受最新模型
 
