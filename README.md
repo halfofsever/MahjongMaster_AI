@@ -15,6 +15,7 @@ MahjongMaster是一款最新的雀魂麻将 AI 辅助工具。它能够针对《
 
 ## 🖥️ 界面预览
 <img width="767" height="755" alt="8429ba1fd128597bc0fe96d97fdfb3b5" src="https://github.com/user-attachments/assets/78c50373-06dc-4af4-b530-336213043340" />
+
 最新AI模型，高级感UI设计
 
 ## ⚙️ 快速上手
