@@ -3,8 +3,11 @@
 ### 📥 社区与下载 / 社群與下載 / コミュニティ & ダウンロード / Community & Download
 
 **内测版下载：右侧 Releases 下载**
+
 **內測版下載：右側 Releases 下載**
+
 **ベータ版ダウンロード：右側の Releases ページから**
+
 **Beta Download: Available in the Releases section on the right**
 
 * **站点 / 官方網站 / 公式サイト / Website**: [https://mahjongmasterdemo.zeabur.app](https://mahjongmasterdemo.zeabur.app)
@@ -27,9 +30,13 @@
 ---
 
 ### 🖥️ 界面预览 / 界面預覽 / プレビュー / Preview
+
 **最新 AI 模型，高级感 UI 设计**
+
 **最新 AI 模型，高級感 UI 設計**
+
 **最新 AI モデル、洗練された UI デザイン**
+
 **Latest AI Model with Premium UI Design**
 
 ---
