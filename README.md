@@ -10,8 +10,12 @@
 
 **Beta Download: Available in the Releases section on the right**
 
+* **Discord**:https://discord.gg/vv8y2Bzk
 * **站点 / 官方網站 / 公式サイト / Website**: [https://mahjongmasterdemo.zeabur.app](https://mahjongmasterdemo.zeabur.app)
-* **联系 / 聯繫 / お問い合わせ / Contact**: QQ `1106131344` / `2110417355`  Discord:start_sever
+* **联系 / 聯繫 / お問い合わせ / Contact**: QQ `1106131344` / `2110417355`  Discord: `start_sever`
+
+<img width="659" height="608" alt="7a731298d6eb9f8ff05f140661a25553" src="https://github.com/user-attachments/assets/aed6f96c-d5b1-4eeb-9031-596a9f2c73c2" />
+
 
 ---
 
@@ -30,6 +34,9 @@
 ---
 
 ### 🖥️ 界面预览 / 界面預覽 / プレビュー / Preview
+
+<img width="766" height="683" alt="433e89fc887d7a5a3aeeae71ff5f4342" src="https://github.com/user-attachments/assets/35a295ea-27f4-4948-9b46-e4575587c844" />
+
 
 **最新 AI 模型，高级感 UI 设计**
 
