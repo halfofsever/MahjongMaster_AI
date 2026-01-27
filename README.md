@@ -5,6 +5,8 @@
 MahjongMaster是一款最新的雀魂麻将 AI 辅助工具。它能够针对《雀魂麻将》对局中的每一步提供实时策略建议、听牌分析及自动化操作支持。
 
 ## 📥 社区与下载
+DC社区：https://discord.gg/vv8y2Bzk
+
 内测版下载：右侧Releases下载
 
 站点：https://mahjongmasterdemo.zeabur.app
