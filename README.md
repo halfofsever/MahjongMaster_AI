@@ -47,8 +47,7 @@
 
 ### 🖥️ 界面预览 / 界面預覽 / プレビュー / Preview
 
-<img width="766" height="683" alt="433e89fc887d7a5a3aeeae71ff5f4342" src="https://github.com/user-attachments/assets/35a295ea-27f4-4948-9b46-e4575587c844" />
-
+![4e84db516ac5eb50c286ecac29a3e249](https://github.com/user-attachments/assets/3796bd4a-89e8-4431-b441-8e5d73c82f83)
 
 **最新 AI 模型，高级感 UI 设计**
 
