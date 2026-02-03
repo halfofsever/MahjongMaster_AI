@@ -26,7 +26,9 @@
 * **站点 / 官方網站 / 公式サイト / Website**: [https://mahjongmasterdemo.zeabur.app](https://mahjongmasterdemo.zeabur.app)
 * **联系 / 聯繫 / お問い合わせ / Contact**: QQ `1106131344` / `2110417355`  Discord: `start_sever`
 
-<img width="659" height="608" alt="7a731298d6eb9f8ff05f140661a25553" src="https://github.com/user-attachments/assets/aed6f96c-d5b1-4eeb-9031-596a9f2c73c2" />
+* **建议加入Q群，有任何疑问都可以在Q群反馈，最新更新也是在Q群抢先发布**
+
+![4b376facc2a33b8b2bad03607156a4cc](https://github.com/user-attachments/assets/eb304730-5c5d-47b3-b356-5daeb47f9033)
 
 
 ---
