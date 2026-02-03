@@ -1,5 +1,7 @@
 # MahjongMaster_AI / 雀魂麻将 AI 助手
 
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.2-blue)](https://github.com/halfofsever/MahjongMaster_AI/releases) [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://github.com/halfofsever/MahjongMaster_AI/releases) [![Status](https://img.shields.io/badge/Status-Active-green)](#)
+
 ### 📥 社区与下载 / 社群與下載 / コミュニティ & ダウンロード / Community & Download
 
 **内测版下载：右侧 Releases 下载**
