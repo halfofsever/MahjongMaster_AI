@@ -2,6 +2,16 @@
 
 [![Latest Release](https://img.shields.io/badge/Release-v1.0.2-blue)](https://github.com/halfofsever/MahjongMaster_AI/releases) [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://github.com/halfofsever/MahjongMaster_AI/releases) [![Status](https://img.shields.io/badge/Status-Active-green)](#)
 
+> **🚀 最新版本 v1.0.2 现已发布！ / 最新版本 v1.0.2 現已發佈！**
+> 
+> **简体中文 (SC)**: **开箱即用 (Out-of-the-Box)**：告别复杂的 Python 环境配置与算力部署。下载即用，毫秒级响应顶级 AI 策略建议。
+> 
+> **繁體中文 (TC)**: **開箱即用 (Out-of-the-Box)**：告別複雜的 Python 環境配置與算力部署。下載即用，毫秒級響應頂級 AI 策略建議。
+> 
+> **日本語 (JP)**: **プラグアンドプレイ (Out-of-the-Box)**：複雑な Python 環境設定や演算サーバーの構築は不要です。ダウンロードしてすぐに使用でき、ミリ秒単位でトップレベルの AI 戦略を提案します。
+> 
+> **English (EN)**: **Out-of-the-Box Experience**: Say goodbye to complex Python environment configurations and computing deployments. Download and play instantly with millisecond-level top-tier AI strategic suggestions.
+
 ### 📥 社区与下载 / 社群與下載 / コミュニティ & ダウンロード / Community & Download
 
 **内测版下载：右侧 Releases 下载**
