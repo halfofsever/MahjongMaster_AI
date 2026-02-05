@@ -1,4 +1,6 @@
-# MahjongMaster_AI / 雀魂麻将 AI 助手
+# MahjongMaster_AI / 雀魂麻将 AI 助手 / Mahjong Copilot
+
+![68747470733a2f2f6d656d6570726f642e61702d736f7574682d312e6c696e6f64656f626a656374732e636f6d2f757365722d6769662d706f73742f313634373635353539333733302e676966](https://github.com/user-attachments/assets/76a29fc5-60d3-4198-baf0-ff59bffe7f7a)
 
 ![Downloads](https://img.shields.io/github/downloads/halfofsever/MahjongMaster_AI/total?color=blue&label=Downloads)
 ![Status](https://img.shields.io/badge/Status-v1.0.2_Stable-green)
