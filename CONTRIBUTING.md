@@ -6,10 +6,10 @@ Thank you for your interest in improving **MahjongMaster_AI**! Your contribution
 ---
 
 ## 🏆 Recruiting High-Rank Players / 招募高段位玩家 / 招募高段位玩家 / 高段位プレイヤーの募集
-* **EN**: We welcome high-rank players (e.g., Celestial/魂天) to contribute game logs to improve the model's precision.
-* **SC**: 我们诚邀“魂天”位及以上的高分段玩家贡献优质牌谱数据，以优化模型的决策精度。
-* **TC**: 我們誠邀“魂天”位及以上的高分段玩家貢獻優質牌譜數據，以優化模型的決策精度。
-* **JP**: モデルの意思決定精度を向上させるため、「魂天」位以上の高段位プレイヤーによる牌譜データの提供を歓迎します。
+* **EN**: We welcome high-rank players to contribute game logs to improve the model's precision.
+* **SC**: 我们诚邀高分段玩家贡献优质牌谱数据，以优化模型的决策精度。
+* **TC**: 我們誠邀高分段玩家貢獻優質牌譜數據，以優化模型的決策精度。
+* **JP**: モデルの意思決定精度を向上させるため、高段位プレイヤーによる牌譜データの提供を歓迎します。
 
 ---
 
