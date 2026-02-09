@@ -1,6 +1,6 @@
 # MahjongMaster_AI / 雀魂麻将 AI 助手 / Mahjong Copilot
 
-![68747470733a2f2f6d656d6570726f642e61702d736f7574682d312e6c696e6f64656f626a656374732e636f6d2f757365722d6769662d706f73742f313634373635353539333733302e676966](https://github.com/user-attachments/assets/76a29fc5-60d3-4198-baf0-ff59bffe7f7a)
+## 后续更新在 Q群 和 DC 抢先发布，对你有帮助的话麻烦点个小星星叭
 
 ![Downloads](https://img.shields.io/github/downloads/halfofsever/MahjongMaster_AI/total?color=blue&label=Downloads)
 ![Status](https://img.shields.io/badge/Status-v1.0.2_Stable-green)
@@ -17,6 +17,8 @@
 > **日本語 (JP)**: **プラグアンドプレイ**,複雑な Python 環境設定や演算サーバーの構築は不要です。ダウンロードしてすぐに使用でき、ミリ秒単位でトップレベルの AI 戦略を提案します。
 > 
 > **English (EN)**: **Out-of-the-Box Experience**,Say goodbye to complex Python environment configurations and computing deployments. Download and play instantly with millisecond-level top-tier AI strategic suggestions.
+
+![68747470733a2f2f6d656d6570726f642e61702d736f7574682d312e6c696e6f64656f626a656374732e636f6d2f757365722d6769662d706f73742f313634373635353539333733302e676966](https://github.com/user-attachments/assets/76a29fc5-60d3-4198-baf0-ff59bffe7f7a)
 
 ### 📥 社区与下载 / 社群與下載 / コミュニティ & ダウンロード / Community & Download
 
