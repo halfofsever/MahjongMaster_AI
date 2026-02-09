@@ -31,7 +31,7 @@
 **Beta Download: Available in the Releases section on the right**
 
 ### * **站点 / 官方網站 / 公式サイト / Website**: [https://mahjongmasterdemo.zeabur.app](https://mahjongmasterdemo.zeabur.app)
-### * **Discord**: https://discord.gg/vv8y2Bzk
+### * **Discord**: [https://discord.gg/vv8y2Bzk](https://discord.gg/btM5BJd2QT)
 ### * **联系 / 聯繫 / お問い合わせ / Contact**: QQ `1106131344` / `2110417355`  Discord: `start_sever`
 ### * **Q群**：`1071119244`
 
