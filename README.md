@@ -9,7 +9,7 @@
 
 [![Latest Release](https://img.shields.io/badge/Release-v1.0.2-blue)](https://github.com/halfofsever/MahjongMaster_AI/releases) [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://github.com/halfofsever/MahjongMaster_AI/releases) [![Status](https://img.shields.io/badge/Status-Active-green)](#)
 
-> **🚀 最新版本 v1.0.3 现已发布！ / 最新版本 v1.0.3 現已發佈！**
+> **🚀 最新版本 v1.0.4 现已发布！ / 最新版本 v1.0.4 現已發佈！**
 > 
 > **简体中文 (SC)**: **开箱即用**,告别复杂的 Python 环境配置与算力部署。下载即用，毫秒级响应顶级 AI 策略建议。
 > 
