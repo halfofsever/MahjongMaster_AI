@@ -34,7 +34,7 @@
 ### * **站点 / 官方網站 / 公式サイト / Website**: [https://mahjongmasterdemo.zeabur.app](https://mahjongmasterdemo.zeabur.app)
 ### * **Discord**: [https://discord.gg/vv8y2Bzk](https://discord.gg/btM5BJd2QT)
 ### * **联系 / 聯繫 / お問い合わせ / Contact**: QQ `1106131344` / `2110417355`  Discord: `start_sever`
-### * **Q群**：`1071119244`
+### * **Q群**：一群：`1071119244` |  二群：`1084299077`  两个群都可以加一下
 
 
 ---
