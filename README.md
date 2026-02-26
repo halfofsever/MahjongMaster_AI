@@ -1,6 +1,6 @@
 # MahjongMaster_AI / 雀魂麻将 AI 助手 / Mahjong Copilot
 
-## 后续更新在 Q群 和 DC 抢先发布，对你有帮助的话麻烦点个小星星叭！⭐
+## 后续更新在 Q群 和 DC 抢先发布，对你有帮助的话麻烦点个小星星叭！⭐[steam,日服都可以用]
 ## Future updates will be released first in our QQ group and Discord. If you find this helpful, please give us a star! ⭐
 
 ![Downloads](https://img.shields.io/github/downloads/halfofsever/MahjongMaster_AI/total?style=flat-square&label=Downloads&color=blue)
