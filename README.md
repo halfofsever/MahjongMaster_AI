@@ -1,5 +1,6 @@
 # MahjongMaster_AI / 雀魂麻将 AI 助手 / Mahjong Copilot
-
+## 我们最近在做一个游戏调研，可以麻烦你用一分钟写一下问卷吗？：https://tally.so/r/VLZl9j
+## We're currently conducting a game survey. Would you mind taking a minute to fill out the questionnaire?：https://tally.so/r/VLZl9j
 ## 后续更新在 Q群 和 DC 抢先发布，对你有帮助的话麻烦点个小星星叭！⭐[steam,日服都可以用]
 ## Future updates will be released first in our QQ group and Discord. If you find this helpful, please give us a star! ⭐
 
