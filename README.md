@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-v1.0.2_Stable-green)
 ![Security](https://img.shields.io/badge/Security-Local_Inference-brightgreen)
 
-[![Latest Release](https://img.shields.io/badge/Release-v1.0.2-blue)](https://github.com/halfofsever/MahjongMaster_AI/releases) [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://github.com/halfofsever/MahjongMaster_AI/releases) [![Status](https://img.shields.io/badge/Status-Active-green)](#)
+[![Latest Release](https://img.shields.io/badge/Release-v1.0.5-blue)](https://github.com/halfofsever/MahjongMaster_AI/releases) [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://github.com/halfofsever/MahjongMaster_AI/releases) [![Status](https://img.shields.io/badge/Status-Active-green)](#)
 
 > **🚀 最新版本 v1.0.4 现已发布！ / 最新版本 v1.0.4 現已發佈！**
 > 
