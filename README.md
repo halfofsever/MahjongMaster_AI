@@ -1,5 +1,5 @@
 # MahjongMaster_AI / 雀魂麻将 AI 助手 / Mahjong Copilot
-# v1.0.5最新模型发布
+# v1.0.5最新模型发布（一群二群已满，有需要进三群哈~）
 ## 后续更新在 Q群 和 DC 抢先发布，对你有帮助的话麻烦点个小星星叭！⭐[steam,日服都可以用]
 ## Future updates will be released first in our QQ group and Discord. If you find this helpful, please give us a star! ⭐
 
