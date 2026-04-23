@@ -1,5 +1,5 @@
 # MahjongMaster_AI / 雀魂麻将 AI 助手 / Mahjong Copilot
-# v1.0.5最新模型发布（QQ群：796719659）
+# v1.0.5最新模型发布（QQ群：861184827）
 ## 后续更新在 Q群 和 DC 抢先发布，对你有帮助的话麻烦点个小星星叭！⭐[steam,日服都可以用]
 ## Future updates will be released first in our QQ group and Discord. If you find this helpful, please give us a star! ⭐
 
@@ -34,7 +34,7 @@
 ### * **站点 / 官方網站 / 公式サイト / Website**: [https://mahjongmasterdemo.zeabur.app](https://mahjongmasterdemo.zeabur.app)
 ### * **Discord**: [https://discord.gg/vv8y2Bzk](https://discord.gg/btM5BJd2QT)
 ### * **联系 / 聯繫 / お問い合わせ / Contact**: QQ `1106131344` / `2110417355`  Discord: `start_sever`
-### * **Q群**：Q群：`796719659` 
+### * **Q群**：Q群：`861184827` 
 
 
 ---
