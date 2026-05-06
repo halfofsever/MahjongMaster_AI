@@ -3,6 +3,7 @@
 ## 后续更新在 Q群 和 DC 抢先发布，对你有帮助的话麻烦点个小星星叭！⭐[steam,日服都可以用]
 ## Future updates will be released first in our QQ group and Discord. If you find this helpful, please give us a star! ⭐
 
+![GitHub all releases](https://img.shields.io/github/downloads/halfofsever/MahjongMaster_AI/total.svg?style=flat-square&label=Downloads&color=blue)
 ![Downloads](https://img.shields.io/github/downloads/halfofsever/MahjongMaster_AI/total?style=flat-square&label=Downloads&color=blue)
 ![Status](https://img.shields.io/badge/Status-v1.0.2_Stable-green?style=flat-square)
 ![Security](https://img.shields.io/badge/Security-Local_Inference-brightgreen?style=flat-square)
