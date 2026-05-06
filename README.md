@@ -4,8 +4,8 @@
 ## Future updates will be released first in our QQ group and Discord. If you find this helpful, please give us a star! ⭐
 
 ![Downloads](https://img.shields.io/github/downloads/halfofsever/MahjongMaster_AI/total?style=flat-square&label=Downloads&color=blue)
-![Status](https://img.shields.io/badge/Status-v1.0.2_Stable-green)
-![Security](https://img.shields.io/badge/Security-Local_Inference-brightgreen)
+![Status](https://img.shields.io/badge/Status-v1.0.2_Stable-green?style=flat-square)
+![Security](https://img.shields.io/badge/Security-Local_Inference-brightgreen?style=flat-square)
 
 [![Latest Release](https://img.shields.io/badge/Release-v1.0.5-blue)](https://github.com/halfofsever/MahjongMaster_AI/releases) [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://github.com/halfofsever/MahjongMaster_AI/releases) [![Status](https://img.shields.io/badge/Status-Active-green)](#)
 
