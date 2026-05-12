@@ -1,8 +1,6 @@
 # MahjongMaster_AI / 雀魂麻将 AI 助手 / Mahjong Copilot
 
-# 复盘分析 最新模型发布（QQ群：861184827）
-
-## Future updates will be released first in our QQ group and Discord. If you find this helpful, please give us a star! ⭐
+# 复盘分析 最新模型发布 / Latest Model Release
 
 ![GitHub all releases](https://img.shields.io/github/downloads/halfofsever/MahjongMaster_AI/total.svg?style=flat-square&label=Downloads&color=blue)
 ![Downloads](https://img.shields.io/github/downloads/halfofsever/MahjongMaster_AI/total?style=flat-square&label=Downloads&color=blue)
