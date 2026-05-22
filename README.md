@@ -2,6 +2,8 @@
 
 # 專業雀魂 AI 輔助與深度邏輯復盤系統 / Professional Mahjong Copilot & Analytics Engine
 
+# 心情不好的时候，可以试试这个网站 / If you’re feeling down, you can try this website / 気分が落ち込んでいるときは、このサイトを試してみてください ：https://a-letter-before-the-storm.pages.dev/
+
 ![GitHub all releases](https://img.shields.io/github/downloads/halfofsever/MahjongMaster_AI/total.svg?style=flat-square&label=Downloads&color=blue)
 ![Status](https://img.shields.io/badge/Status-v1.0.5_Stable-green?style=flat-square)
 ![Security](https://img.shields.io/badge/Security-Anti_Detection_Verified-brightgreen?style=flat-square)
