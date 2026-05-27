@@ -2,6 +2,8 @@
 
 # 專業雀魂 AI 輔助與深度邏輯復盤系統 / Professional Mahjong Copilot & Analytics Engine
 
+# 专属邀请码：73594b1f
+
 # 心情不好的时候，可以试试这个网站 / If you’re feeling down, you can try this website / 気分が落ち込んでいるときは、このサイトを試してみてください ：https://a-letter-before-the-storm.pages.dev/
 
 ![GitHub all releases](https://img.shields.io/github/downloads/halfofsever/MahjongMaster_AI/total.svg?style=flat-square&label=Downloads&color=blue)
